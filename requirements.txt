@@ -1,0 +1,11 @@
+# A2A SDK requirements
+httpx
+uvicorn
+click
+pydantic
+fastapi
+starlette
+aiohttp
+
+# Local A2A package (development)
+-e ./a2a-python
